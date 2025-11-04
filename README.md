@@ -1,2 +1,2 @@
 # Leet-Code-Solutions
-Solving Leet Code Solutions in C
+Simply doing Leet Code Solutions in C. Trying around pointer arithmetic
